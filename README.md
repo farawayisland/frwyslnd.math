@@ -1,0 +1,39 @@
+<!-- ─────────────────────────────────────────────────────────────────────── -->
+<!-- SPDX-FileCopyrightText: 2026 farawayisland -->
+<!-- SPDX-License-Identifier: GPL-3.0-or-later -->
+<!-- ─────────────────────────────────────────────────────────────────────── -->
+<!---->
+<!-- The development version of the project this file is a part of can be -->
+<!-- found at -->
+<!---->
+<!--   https://codeberg.org/farawayisland/frwyslnd.math -->
+<!--   https://github.com/farawayisland/frwyslnd.math -->
+<!---->
+<!-- for those people who are interested. -->
+<!---->
+<!-- ─────────────────────────────────────────────────────────────────────── -->
+# `frwyslnd.math`
+
+My miscellaneous mathematics projects.
+
+## Structure (As of 2026-06-29)
+
+```
+.
+├── exercises
+│   ├── misc
+│   └── textbook
+└── notes
+    ├── algebra
+    ├── analysis
+    ├── category-theory
+    ├── discrete
+    ├── foundations
+    ├── geometry
+    ├── number-theory
+    ├── precalculus
+    ├── probability-theory
+    ├── problem-solving
+    ├── proofs
+    └── topology
+```
